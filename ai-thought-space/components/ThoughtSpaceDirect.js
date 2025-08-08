@@ -1,0 +1,1 @@
+// ThoughtSpaceDirect component placeholder

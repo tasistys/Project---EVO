@@ -1,0 +1,1 @@
+// FloatingCam component placeholder

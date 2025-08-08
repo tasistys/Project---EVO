@@ -1,0 +1,1 @@
+// AIDog component placeholder
